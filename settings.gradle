@@ -1,0 +1,2 @@
+rootProject.name='SendMessages'
+include ':app'
